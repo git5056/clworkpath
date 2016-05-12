@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!--   Created by CodeLibrary at 2010/10/30   -->
+<SyntaxDefinition name = "Text" extensions = ".txt">
+	<RuleSets>
+		<RuleSet ignorecase = "false"></RuleSet>
+	</RuleSets>
+</SyntaxDefinition>
